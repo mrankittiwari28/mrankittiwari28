@@ -3,7 +3,7 @@
 ### 🚀 Software Developer | Full Stack Developer | AI Developer
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;AI+%26+LLM+Developer;Building+Scalable+%26+Intelligent+Applications" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Software+Developer;Full+Stack+Web+Developer;AI+%26+LLM+Developer;Building+Scalable+%26+Intelligent+Applications" />
 </p>
 
 <p align="center">
